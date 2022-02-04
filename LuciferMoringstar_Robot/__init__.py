@@ -35,13 +35,13 @@ HELP = """
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
     
-➥ Credits : Subin
+➥ Credits : Parthan
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Editing : [Parthan](https://t.me/+Lm60f0eu0pg4Mjc9)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://t.me/+Lm60f0eu0pg4Mjc9)
 """
